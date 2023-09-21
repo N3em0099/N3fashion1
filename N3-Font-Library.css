@@ -1,0 +1,1113 @@
+@font-face {
+    font-family: lla;
+    src: url(/llaun.ttf);
+}
+@font-face {
+    font-family: dk;
+    src: url(/Droid-Kufi.ttf);
+}
+@font-face {
+    font-family: abru;
+    src: url(/a-abrushow-font.ttf);
+}
+
+@font-face {
+    font-family: aha;
+    src: url(/a-aha-wow-font.ttf);
+}
+@font-face {
+    font-family: allo;
+    src: url(/a-alloy-ink-font.ttf);
+}
+@font-face {
+    font-family: goza;
+    src: url(/a-arigatou-gozaimasu-font.ttf);
+}
+@font-face {
+    font-family: graf;
+    src: url(/a-attack-graffiti-font.ttf);
+}
+@font-face {
+    font-family: Rale Bd;
+    src: url(/Raleway-Bold.ttf);
+}
+@font-face {
+    font-family: Abha R;
+    src: url(/AbhayaLibre-Regular.ttf);
+}
+@font-face {
+    font-family: Abril R;
+    src: url(/AbrilFatface-Regular.ttf);
+}
+@font-face {
+    font-family: Aile R;
+    src: url(/Aileron-Regular.otf);
+}
+@font-face {
+    font-family: Amat Bd;
+    src: url(/AmaticSC-Bold.ttf);
+}
+@font-face {
+    font-family: AmatSC R;
+    src: url(/AmaticSC-Regular.ttf);
+}
+@font-face {
+    font-family: AndClock;
+    src: url(/AndroidClock.ttf);
+}
+@font-face {
+    font-family: Anton R;
+    src: url(/Anton-Regular.ttf);
+}
+@font-face {
+    font-family: Anton;
+    src: url(/Anton.ttf);
+}
+@font-face {
+    font-family: Arch Bck R;
+    src: url(/ArchivoBlack-Regular.ttf);
+}
+@font-face {
+    font-family: arial;
+    src: url(/arial.ttf);
+}
+@font-face {
+    font-family: automa TS;
+    src: url(/automagic-text-shapes.ttf);
+}
+@font-face {
+    font-family: Azo Bk;
+    src: url(/AzoSans-Black.otf);
+}
+@font-face {
+    font-family: Azo Bd;
+    src: url(/AzoSans-Bold.otf);
+}
+@font-face {
+    font-family: Azo Lt;
+    src: url(/AzoSans-Light.otf);
+}
+@font-face {
+    font-family: Azo R;
+    src: url(/AzoSans-Regular.otf);
+}
+@font-face {
+    font-family: BacBk;
+    src: url(/BacktoBlack.ttf);
+}
+@font-face {
+    font-family: Bagnard;
+    src: url(/Bagnard.otf);
+}
+@font-face {
+    font-family: Bariol Bd;
+    src: url(/Bariol-Bold.ttf);
+}
+@font-face {
+    font-family: Bauhaus;
+    src: url(/Bauhaus.ttf);
+}
+@font-face {
+    font-family: BebaNeu Bd;
+    src: url(/BebasNeue-Bold.ttf);
+}
+@font-face {
+    font-family: BebaNeu;
+    src: url(/BebasNeue.ttf);
+}
+@font-face {
+    font-family: Best Hb;
+    src: url(/BeStillKnowHB.ttf);
+}
+@font-face {
+    font-family: BowB;
+    src: url(/BowBabyFlo.ttf);
+}
+@font-face {
+    font-family: bros FFt;
+    src: url(/broshk-fruits-font.ttf);
+}
+@font-face {
+    font-family: Bryn We;
+    src: url(/Bryndan-Write.ttf);
+}
+@font-face {
+    font-family: Cai R;
+    src: url(/Cairo_Regular.ttf);
+}
+@font-face {
+    font-family: Cap It;
+    src: url(/Capture_it.ttf);
+}
+@font-face {
+    font-family: Carro SC R;
+    src: url(/CarroisGothicSC-Regular.ttf);
+}
+@font-face {
+    font-family: CavD Bd;
+    src: url(/CaviarDreams-Bold.ttf);
+}
+@font-face {
+    font-family: CavD;
+    src: url(/CaviarDreams.ttf);
+}
+@font-face {
+    font-family: Cheri;
+    src: url(/Cheri.ttf);
+}
+@font-face {
+    font-family: Cl16;
+    src: url(/Clock2016.ttf);
+}
+@font-face {
+    font-family: Cl17L;
+    src: url(/Clock2017L.ttf);
+}
+@font-face {
+    font-family: Cl17R;
+    src: url(/Clock2017R.ttf);
+}
+@font-face {
+    font-family: Cocon;
+    src: url(/Cocon.ttf);
+}
+@font-face {
+    font-family: Comf Bd;
+    src: url(/Comfortaa-Bold.ttf);
+}
+@font-face {
+    font-family: Comf;
+    src: url(/Comfortaa.ttf);
+}
+@font-face {
+    font-family: Comic Bd;
+    src: url(/ComicSans-Bold.ttf);
+}
+@font-face {
+    font-family: Comic;
+    src: url(/ComicSans.ttf);
+}
+@font-face {
+    font-family: Comso;
+    src: url(/ComingSoon.ttf);
+}
+@font-face {
+    font-family: CorHt Med;
+    src: url(/CooperHewitt-Medium.otf);
+}
+@font-face {
+    font-family: Curgte;
+    src: url(/Courgette.ttf);
+}
+@font-face {
+    font-family: Crtis;
+    src: url(/CupertinoIcons.ttf);
+}
+@font-face {
+    font-family: CuMno;
+    src: url(/CutiveMono.ttf);
+}
+@font-face {
+    font-family: Dangsct Bd;
+    src: url(/DancingScript-Bold.ttf);
+}
+@font-face {
+    font-family: Dangsct R;
+    src: url(/DancingScript-Regular.ttf);
+}
+@font-face {
+    font-family: Default Bd;
+    src: url(/Default-Bold.ttf);
+}
+@font-face {
+    font-family: Default;
+    src: url(/Default.ttf);
+}
+@font-face {
+    font-family: digX;
+    src: url(/digitalix.ttf);
+}
+@font-face {
+    font-family: dig FsFt;
+    src: url(/digitalts-fruits-font.ttf);
+}
+@font-face {
+    font-family: Donut;
+    src: url(/Donut.ttf);
+}
+@font-face {
+    font-family: Dosis Lt;
+    src: url(/Dosis-Light.ttf);
+}
+@font-face {
+    font-family: Droid Bd;
+    src: url(/DroidSans-Bold.ttf);
+}
+@font-face {
+    font-family: Droid;
+    src: url(/DroidSans.ttf);
+}
+@font-face {
+    font-family: DroMon;
+    src: url(/DroidSansMono.ttf);
+}
+@font-face {
+    font-family: geothgxy Ft;
+    src: url(/edge-of-the-galaxy-font.otf);
+}
+@font-face {
+    font-family: Ehsan;
+    src: url(/Ehsan.ttf);
+}
+@font-face {
+    font-family: elbcs;
+    src: url(/elfboyclassic.ttf);
+}
+@font-face {
+    font-family: ElsBk;
+    src: url(/ElsieBlack.ttf);
+}
+@font-face {
+    font-family: Eng;
+    src: url(/english.ttf);
+}
+@font-face {
+    font-family: exed Ft;
+    src: url(/excluded-font.ttf);
+}
+@font-face {
+    font-family: fa brn 400;
+    src: url(/fa-brands-400.ttf);
+}
+@font-face {
+    font-family: fa R 400;
+    src: url(/fa-regular-400.ttf);
+}
+@font-face {
+    font-family: fa sod 900;
+    src: url(/fa-solid-900.ttf);
+}
+@font-face {
+    font-family: facon Ft;
+    src: url(/facon-font.ttf);
+}
+@font-face {
+    font-family: Fnlvx;
+    src: url(/Fanlovexo.ttf);
+}
+@font-face {
+    font-family: fnt1;
+    src: url(/font_1.ttf);
+}
+@font-face {
+    font-family: fnt10;
+    src: url(/font_10.ttf);
+}
+@font-face {
+    font-family: fnt11;
+    src: url(/font_11.ttf);
+}
+@font-face {
+    font-family: fnt12;
+    src: url(/font_12.ttf);
+}
+@font-face {
+    font-family: fnt13;
+    src: url(/font_13.ttf);
+}
+@font-face {
+    font-family: fnt14;
+    src: url(/font_14.ttf);
+}
+@font-face {
+    font-family: fnt15;
+    src: url(/font_15.ttf);
+}
+@font-face {
+    font-family: fnt16;
+    src: url(/font_16.ttf);
+}
+@font-face {
+    font-family: fnt17;
+    src: url(/font_17.ttf);
+}
+@font-face {
+    font-family: fnt18;
+    src: url(/font_18.ttf);
+}
+@font-face {
+    font-family: fnt19;
+    src: url(/font_19.ttf);
+}
+@font-face {
+    font-family: fnt2;
+    src: url(/font_2.ttf);
+}
+@font-face {
+    font-family: fnt20;
+    src: url(/font_20.ttf);
+}
+@font-face {
+    font-family: fnt21;
+    src: url(/font_21.ttf);
+}
+@font-face {
+    font-family: fnt22;
+    src: url(/font_22.ttf);
+}
+@font-face {
+    font-family: fnt23;
+    src: url(/font_23.ttf);
+}
+@font-face {
+    font-family: fnt24;
+    src: url(/font_24.ttf);
+}
+@font-face {
+    font-family: fnt25;
+    src: url(/font_25.ttf);
+}
+@font-face {
+    font-family: fnt26;
+    src: url(/font_26.ttf);
+}
+@font-face {
+    font-family: fnt27;
+    src: url(/font_27.ttf);
+}
+@font-face {
+    font-family: fnt28;
+    src: url(/font_28.ttf);
+}
+@font-face {
+    font-family: fnt29;
+    src: url(/font_29.ttf);
+}
+@font-face {
+    font-family: fnt3;
+    src: url(/font_3.ttf);
+}
+@font-face {
+    font-family: fnt30;
+    src: url(/font_30.ttf);
+}
+@font-face {
+    font-family: fnt31;
+    src: url(/font_31.ttf);
+}
+@font-face {
+    font-family: fnt32;
+    src: url(/font_32.ttf);
+}
+@font-face {
+    font-family: fnt33;
+    src: url(/font_33.ttf);
+}
+@font-face {
+    font-family: fnt34;
+    src: url(/font_34.ttf);
+}
+@font-face {
+    font-family: fnt35;
+    src: url(/font_35.ttf);
+}
+@font-face {
+    font-family: fnt4;
+    src: url(/font_4.ttf);
+}
+@font-face {
+    font-family: fnt5;
+    src: url(/font_5.ttf);
+}
+@font-face {
+    font-family: fnt6;
+    src: url(/font_6.ttf);
+}
+@font-face {
+    font-family: fnt7;
+    src: url(/font_7.ttf);
+}
+@font-face {
+    font-family: fnt8;
+    src: url(/font_8.ttf);
+}
+@font-face {
+    font-family: fnt9;
+    src: url(/font_9.ttf);
+}
+@font-face {
+    font-family: frult;
+    src: url(/frutiger_lt.ttf);
+}
+@font-face {
+    font-family: FruLR Bd;
+    src: url(/FrutigerLTStdRoman-Bold.ttf);
+}
+@font-face {
+    font-family: FruLTR;
+    src: url(/FrutigerLTStdRoman.ttf);
+}
+@font-face {
+    font-family: over;
+    src: url(/gameover.ttf);
+}
+@font-face {
+    font-family: gara;
+    src: url(/garamond.ttf);
+}
+@font-face {
+    font-family: GravO R;
+    src: url(/GravitasOne-Regular.ttf);
+}
+@font-face {
+    font-family: GRBD;
+    src: url(/GROBOLD.ttf);
+}
+@font-face {
+    font-family: HapG;
+    src: url(/HappyGiraffe.ttf);
+}
+@font-face {
+    font-family: HapM;
+    src: url(/HappyMonkey.ttf);
+}
+@font-face {
+    font-family: harP Ft;
+    src: url(/harry-p-font.ttf);
+}
+@font-face {
+    font-family: HarPr;
+    src: url(/HaryPotter.ttf);
+}
+@font-face {
+    font-family: Heca;
+    src: url(/Helvetica.ttf);
+}
+@font-face {
+    font-family: heyc;
+    src: url(/heycomic.ttf);
+}
+@font-face {
+    font-family: irom;
+    src: url(/intercom_roboto_medium.ttf);
+}
+@font-face {
+    font-family: JaSr Jo;
+    src: url(/JamesStroker-jEZMO.ttf);
+}
+@font-face {
+    font-family: Lto Bk;
+    src: url(/Lato-Black.ttf);
+}
+@font-face {
+    font-family: Lto Tn;
+    src: url(/Lato-Thin.ttf);
+}
+@font-face {
+    font-family: Leac Ic;
+    src: url(/LeagueGothic-Italic.otf);
+}
+@font-face {
+    font-family: Lile R;
+    src: url(/LibreBaskerville-Regular.ttf);
+}
+@font-face {
+    font-family: Lvg;
+    src: url(/LovedbytheKing.ttf);
+}
+@font-face {
+    font-family: mds WFt;
+    src: url(/materialdesignicons-webfont.ttf);
+}
+@font-face {
+    font-family: MaP Bd;
+    src: url(/MavenPro-Bold.ttf);
+}
+@font-face {
+    font-family: MaP;
+    src: url(/MavenPro.ttf);
+}
+@font-face {
+    font-family: Merr;
+    src: url(/Merriweather.ttf);
+}
+@font-face {
+    font-family: mcrt;
+    src: url(/minecraft.ttf);
+}
+@font-face {
+    font-family: Mnt R;
+    src: url(/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: MntS;
+    src: url(/MontserratSans.otf);
+}
+@font-face {
+    font-family: moth;
+    src: url(/mothanna.ttf);
+}
+@font-face {
+    font-family: neo Ft;
+    src: url(/neoneon-font.otf);
+}
+@font-face {
+    font-family: nepo;
+    src: url(/neuropol%20x%20rg.ttf);
+}
+@font-face {
+    font-family: njno;
+    src: url(/njnaruto.ttf);
+}
+@font-face {
+    font-family: Nrca R;
+    src: url(/Norican-Regular.ttf);
+}
+@font-face {
+    font-family: Nrca;
+    src: url(/Norican.ttf);
+}
+@font-face {
+    font-family: NtCrji;
+    src: url(/NotoColorEmoji.ttf);
+}
+@font-face {
+    font-family: NtNAr Bd;
+    src: url(/NotoNaskhArabic-Bold.ttf);
+}
+@font-face {
+    font-family: NtNAr R;
+    src: url(/NotoNaskhArabic-Regular.ttf);
+}
+@font-face {
+    font-family: NtNArUi Bd;
+    src: url(/NotoNaskhArabicUI-Bold.ttf);
+}
+@font-face {
+    font-family: NtNArUi R;
+    src: url(/NotoNaskhArabicUI-Regular.ttf);
+}
+@font-face {
+    font-family: NtSa R;
+    src: url(/NotoSans-Regular.ttf);
+}
+@font-face {
+    font-family: NtSAd R;
+    src: url(/NotoSansAdlam-Regular.ttf);
+}
+@font-face {
+    font-family: NtSAr R;
+    src: url(/NotoSansArabic-Regular.ttf);
+}
+@font-face {
+    font-family: NtSArm Bd;
+    src: url(/NotoSansArmenian-Bold.ttf);
+}
+@font-face {
+    font-family: NtSArm R;
+    src: url(/NotoSansArmenian-Regular.ttf);
+}
+@font-face {
+    font-family: NtSAv R;
+    src: url(/NotoSansAvestan-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBa R;
+    src: url(/NotoSansBalinese-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBam R;
+    src: url(/NotoSansBamum-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBat R;
+    src: url(/NotoSansBatak-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBen Bd;
+    src: url(/NotoSansBengali-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaBen R;
+    src: url(/NotoSansBengali-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBenUi Bd;
+    src: url(/NotoSansBengaliUI-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaBenUi R;
+    src: url(/NotoSansBengaliUI-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBra R;
+    src: url(/NotoSansBrahmi-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBug R;
+    src: url(/NotoSansBuginese-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaBuh R;
+    src: url(/NotoSansBuhid-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaCan R;
+    src: url(/NotoSansCanadianAboriginal-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaCar R;
+    src: url(/NotoSansCarian-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaCha  Bd;
+    src: url(/NotoSansCham-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaCha R;
+    src: url(/NotoSansCham-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaChe R;
+    src: url(/NotoSansCherokee-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaCop R;
+    src: url(/NotoSansCoptic-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaCun R;
+    src: url(/NotoSansCuneiform-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaCyp R;
+    src: url(/NotoSansCypriot-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaDes R;
+    src: url(/NotoSansDeseret-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaDev Bd;
+    src: url(/NotoSansDevanagari-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaDev R;
+    src: url(/NotoSansDevanagari-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaDevUi Bd;
+    src: url(/NotoSansDevanagariUI-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaDevUi R;
+    src: url(/NotoSansDevanagariUI-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaEgy R;
+    src: url(/NotoSansEgyptianHieroglyphs-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaEth Bd;
+    src: url(/NotoSansEthiopic-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaEth R;
+    src: url(/NotoSansEthiopic-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaGeo Bd;
+    src: url(/NotoSansGeorgian-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaGeo R;
+    src: url(/NotoSansGeorgian-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaGla R;
+    src: url(/NotoSansGlagolitic-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaGot R;
+    src: url(/NotoSansGothic-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaGuj Bd;
+    src: url(/NotoSansGujarati-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaGuj R;
+    src: url(/NotoSansGujarati-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaGujUi Bd;
+    src: url(/NotoSansGujaratiUI-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaGujUi R;
+    src: url(/NotoSansGujaratiUI-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaGur Bd;
+    src: url(/NotoSansGurmukhi-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaGur R;
+    src: url(/NotoSansGurmukhi-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaGurUi Bd;
+    src: url(/NotoSansGurmukhiUI-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaHan R;
+    src: url(/NotoSansHanunoo-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaHeb Bd;
+    src: url(/NotoSansHebrew-Bold.ttf);
+}
+@font-face {
+    font-family: NtSaHeb R;
+    src: url(/NotoSansHebrew-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaImp R;
+    src: url(/NotoSansImperialAramaic-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaIns R;
+    src: url(/NotoSansInscriptionalPahlavi-Regular.ttf);
+}
+@font-face {
+    font-family: NtSaInsc R;
+    src: url(/NotoSansInscriptionalParthian-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansJavanese R;
+    src: url(/NotoSansJavanese-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansKaithi R;
+    src: url(/NotoSansKaithi-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansKannada Bd;
+    src: url(/NotoSansKannada-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansKannada R;
+    src: url(/NotoSansKannada-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansKannadaUI Bd;
+    src: url(/NotoSansKannadaUI-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansKannadaUI R;
+    src: url(/NotoSansKannadaUI-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansKayahLi R;
+    src: url(/NotoSansKayahLi-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansKharoshthi R;
+    src: url(/NotoSansKharoshthi-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansKhmer Vf;
+    src: url(/NotoSansKhmer-VF.ttf);
+}
+@font-face {
+    font-family: NotoSansKhmerUI Bd;
+    src: url(/NotoSansKhmerUI-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansKhmerUI R;
+    src: url(/NotoSansKhmerUI-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansKR R;
+    src: url(/NotoSansKR-Regular.otf);
+}
+@font-face {
+    font-family: NotoSansLao Bd;
+    src: url(/NotoSansLao-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansLao R;
+    src: url(/NotoSansLao-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansLaoUI Bd;
+    src: url(/NotoSansLaoUI-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansLaoUI R;
+    src: url(/NotoSansLaoUI-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansLepcha R;
+    src: url(/NotoSansLepcha-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansLimbu R;
+    src: url(/NotoSansLimbu-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansLinearB R;
+    src: url(/NotoSansLinearB-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansLisu R;
+    src: url(/NotoSansLisu-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansLycian R;
+    src: url(/NotoSansLycian-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansLydian R;
+    src: url(/NotoSansLydian-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansMalayalam Bd;
+    src: url(/NotoSansMalayalam-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansMalayalam R;
+    src: url(/NotoSansMalayalam-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansMalayalamUI Bd;
+    src: url(/NotoSansMalayalamUI-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansMandaic R;
+    src: url(/NotoSansMandaic-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansMeeteiMayek R;
+    src: url(/NotoSansMeeteiMayek-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansMongolian R;
+    src: url(/NotoSansMongolian-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansMyanmar Bd;
+    src: url(/NotoSansMyanmar-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansMyanmar R;
+    src: url(/NotoSansMyanmar-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansMyanmarUI Bd;
+    src: url(/NotoSansMyanmarUI-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSansMyanmarUI R;
+    src: url(/NotoSansMyanmarUI-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansNewTaiLue R;
+    src: url(/NotoSansNewTaiLue-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansNKo R;
+    src: url(/NotoSansNKo-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansOgham R;
+    src: url(/NotoSansOgham-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansOlChiki R;
+    src: url(/NotoSansOlChiki-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansOldItalic R;
+    src: url(/NotoSansOldItalic-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansOldPersian R;
+    src: url(/NotoSansOldPersian-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansOldSouthArabian R;
+    src: url(/NotoSansOldSouthArabian-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansOldTurkic R;
+    src: url(/NotoSansOldTurkic-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansOriya Bd;
+    src: url(/NotoSansOriya-Bold.ttf);
+}
+@font-face {
+    font-family: Skranji;
+    src: url(/Skranji.ttf);
+}
+@font-face {
+    font-family: Slate_OnePlus Bd;
+    src: url(/Slate_OnePlus-Bold.ttf);
+}
+@font-face {
+    font-family: Slate_OnePlus;
+    src: url(/Slate_OnePlus.ttf);
+}
+@font-face {
+    font-family: Smoolthan Tn;
+    src: url(/Smoolthan-Thin.ttf);
+}
+@font-face {
+    font-family: SourceSansPro Bd;
+    src: url(/SourceSansPro-Bold.ttf);
+}
+@font-face {
+    font-family: SourceSansPro;
+    src: url(/SourceSansPro.ttf);
+}
+@font-face {
+    font-family: TerminalGrotesque On;
+    src: url(/TerminalGrotesque-Open.otf);
+}
+@font-face {
+    font-family: typewriter;
+    src: url(/typewriter.ttf);
+}
+@font-face {
+    font-family: WhatsAppPaymentIcons R;
+    src: url(/WhatsAppPaymentIcons-Regular.ttf);
+}
+@font-face {
+    font-family: WhatsAppPaymentIcons;
+    src: url(/WhatsAppPaymentIcons.ttf);
+}
+@font-face {
+    font-family: WhatsAppPayments R;
+    src: url(/WhatsAppPayments-Regular.otf);
+}
+@font-face {
+    font-family: yoster;
+    src: url(/yoster.ttf);
+}
+@font-face {
+    font-family: YoungSerif R;
+    src: url(/YoungSerif-Regular.otf);
+}
+@font-face {
+    font-family: zorque;
+    src: url(/zorque.ttf);
+}
+@font-face {
+    font-family: Satisfy;
+    src: url(/Satisfy.ttf);
+}
+@font-face {
+    font-family: SamsungNeoNum 3l;
+    src: url(/SamsungNeoNum-3L.ttf);
+}
+@font-face {
+    font-family: SamsungNeoNum 3r;
+    src: url(/SamsungNeoNum-3R.ttf);
+}
+@font-face {
+    font-family: SamsungNeoNum 3t;
+    src: url(/SamsungNeoNum-3T.ttf);
+}
+@font-face {
+    font-family: SamsungNeoNumCond 3t;
+    src: url(/SamsungNeoNumCond-3T.ttf);
+}
+@font-face {
+    font-family: SamsungThaiUI R;
+    src: url(/SamsungThaiUI-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSerif Bd;
+    src: url(/NotoSerif-Bold.ttf);
+}
+@font-face {
+    font-family: NotoSerif BdIc;
+    src: url(/NotoSerif-BoldItalic.ttf);
+}
+@font-face {
+    font-family: NotoSerif Ic;
+    src: url(/NotoSerif-Italic.ttf);
+}
+@font-face {
+    font-family: NotoSerif R;
+    src: url(/NotoSerif-Regular.ttf);
+}
+@font-face {
+    font-family: Oswald Bd;
+    src: url(/Oswald-Bold.ttf);
+}
+@font-face {
+    font-family: Oswald Hy;
+    src: url(/Oswald-Heavy.ttf);
+}
+@font-face {
+    font-family: Oswald R;
+    src: url(/Oswald-Regular.ttf);
+}
+@font-face {
+    font-family: NotoSansPhagsPa R;
+    src: url(/NotoSansPhagsPa-Regular.ttf);
+}
+@font-face {
+    font-family: Pacifico;
+    src: url(/Pacifico.ttf);
+}
+@font-face {
+    font-family: Passing_Notes;
+    src: url(/Passing_Notes.ttf);
+}
+@font-face {
+    font-family: Rale Lt;
+    src: url(/Raleway-Light.ttf);
+}
+@font-face {
+    font-family: Rale;
+    src: url(/Raleway.ttf);
+}
+@font-face {
+    font-family: pricedown;
+    src: url(/pricedown%20bl.ttf);
+}
+@font-face {
+    font-family: ProductSans;
+    src: url(/ProductSans.ttf);
+}
+@font-face {
+    font-family: OpenSans BdIc;
+    src: url(/OpenSans-BoldItalic.ttf);
+}
+@font-face {
+    font-family: PlayfairDisplay Bk;
+    src: url(/PlayfairDisplay-Black.ttf);
+}
+@font-face {
+    font-family: PlayfairDisplay BkIc;
+    src: url(/PlayfairDisplay-BlackItalic.ttf);
+}
+@font-face {
+    font-family: PlayfairDisplay Ic;
+    src: url(/PlayfairDisplay-Italic.ttf);
+}
+@font-face {
+    font-family: Poppins R;
+    src: url(/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: Ribes Bk;
+    src: url(/Ribes-Black.otf);
+}
+@font-face {
+    font-family: Tran;
+    src: url(/Transformers.ttf);
+}

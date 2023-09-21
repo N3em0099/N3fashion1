@@ -1,0 +1,129 @@
+html{
+    background: #EBBDBD;
+    font-family: dk
+}
+#img1{
+    margin-top: -15px;
+    margin-left: 100px
+}
+#bk2{
+    margin-top: -40px;
+    margin-left: 87px;
+}
+#dv1{
+    padding-top: 20px;
+    background: black ;
+    background-image: url(b.png);
+    margin-left: -9px;
+    margin-right: -9px;
+    margin-top: -8px;
+    height: 500px;
+    background-position: top;
+    background-size: 610px;
+    background-repeat: no-repeat;
+    border: 9px double #EBBDBD;
+    border-radius: 20px;
+    box-shadow: 1px 1px 9px 3px black;
+    padding-left: 20px
+}
+#dv3{
+    padding-top: 20px;
+    background: black ;
+    margin-left: -9px;
+    margin-right: -9px;
+    margin-top: -8px;
+    background-position: top;
+    border: 9px double #EBBDBD;
+    border-radius: 20px;
+    box-shadow: 1px 1px 9px 3px black;
+    padding-left: 20px;
+    color: #EBBDBD;
+    margin-left: -9px;
+        margin-right: -9px;
+        margin-bottom: -8px;
+}
+ba .o1{
+    background: transparent;
+    border-top: 3px solid #EBBDBD;
+    border-bottom: 3px solid #EBBDBD;
+    border-left: 0px;
+    border-right: 0px;
+    width: 300px;
+    border-radius: 20px;
+    height: 50px;
+    font-size: 30px;
+    color: #EBBDBD;
+}
+ba .o2{
+    background: transparent;
+        border-right: 3px solid #EBBDBD;
+        border-left: 3px solid #EBBDBD;
+        border-bottom: 0px;
+        border-top: 0px;
+        width: 50px;
+        border-radius: 20px;
+        height: 60px;
+        font-size: 30px;
+        color: #EBBDBD;
+        
+}
+wa{
+    color: #EBBDBD;
+    font-family: neo Ft;
+    margin-left: 200px;
+    font-size: 10px;
+}
+hr{
+   border-color: #aaa;
+   border-style: inset
+}
+#dv2{
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+#l1{
+    height: 300px;
+    background: rgba(0, 0, 0, 0.6313725490196078);
+    overflow: hidden;
+    border-radius: 20px;
+}
+zt2 .o1{
+    height: 300px;
+    width: 3000px;
+
+    background: transparent;
+    border: 0px;
+    border-radius: 20px;
+}
+#m1{
+    border-radius: 20px;
+    background-image:url(m1.png);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+    color: white;
+    font-size: 20px;
+    font-family: dk;
+}
+zt1 .o1{
+    background: transparent;
+    width: 80px;
+    height: 80px;
+    font-size: 50px;
+    border: 0px
+    
+    
+}
+#rd2{
+    height: 60px;
+    background: black;
+    margin-left: -9px;
+    margin-right: -9px;
+    margin-top: -8px;
+    padding: 10px;
+    display: flex;
+}
+#ba2{display: flex}
